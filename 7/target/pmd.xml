@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.0.1" timestamp="2018-05-29T12:34:18.013">
+<file name="C:\Users\Lenovo\IdeaProjects\7\src\main\java\lviv\iot\ua\Camera.java">
+<violation beginline="32" endline="34" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Camera" method="getCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="36" endline="38" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Camera" method="setCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+</file>
+<file name="C:\Users\Lenovo\IdeaProjects\7\src\main\java\lviv\iot\ua\FileWriter.java">
+<violation beginline="19" endline="20" begincolumn="11" endcolumn="9" rule="EmptyCatchBlock" ruleset="Error Prone" package="lviv.iot.ua" class="FileWriter" method="writeCSV" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="C:\Users\Lenovo\IdeaProjects\7\src\main\java\lviv\iot\ua\HistoricalMovieManager.java">
+<violation beginline="21" endline="22" begincolumn="18" endcolumn="17" rule="UselessParentheses" ruleset="Code Style" package="lviv.iot.ua" class="HistoricalMovieManager" method="findByGroup" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="C:\Users\Lenovo\IdeaProjects\7\src\main\java\lviv\iot\ua\Lamp.java">
+<violation beginline="16" endline="18" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Lamp" method="getCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="21" endline="23" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Lamp" method="setCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="34" endline="36" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Lamp" method="getWeight" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="39" endline="41" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Lamp" method="setWeight" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+</file>
+<file name="C:\Users\Lenovo\IdeaProjects\7\src\main\java\lviv\iot\ua\Microphone.java">
+<violation beginline="31" endline="33" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Microphone" method="getCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+<violation beginline="36" endline="38" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Design" package="lviv.iot.ua" class="Microphone" method="setCost" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_design.html#uselessoverridingmethod" priority="3">
+Overriding method merely calls super
+</violation>
+</file>
+</pmd>
